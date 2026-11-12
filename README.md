@@ -203,4 +203,6 @@ Node.js, TypeScript, Express 5, Google Gemini API. The code was developed with t
 
 ## License
 
-Add a license of your choice (MIT is common for projects like this) and update the `license` field in `package.json`.
+Copyright (c) 2026 malsaaaa. All rights reserved.
+
+This repository is public for viewing and portfolio purposes. No license is granted to copy, modify, distribute or use the code without the author's written permission.
